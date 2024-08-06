@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan Baig</h1>
 <h3 align="center">Full-Stack Developer | Next.js | TypeScript | Tailwind CSS | FastAPI | Neon Postgres</h3>
+  
+---
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=light&row=1&column=3&no-frame=true">
     <img src="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=light&row=1&column=3&no-frame=true" alt="muhammadsufiyanbaig"/>
   </a>
 </p>
+  
+---
+
 
 <p align="center">🔭 I’m currently working on <a href="https://www.panacloud.com/">Panacloud</a></p>
+  
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -18,7 +25,9 @@
   <a href="https://medium.com/@muhammadsufiyanbaig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadsufiyanbaig" height="30" width="40" /></a>
   <a href="https://muhammadsufiyanbaig.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
 </p>
-
+  
+---
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -50,7 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="muhammadsufiyanbaig" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&locale=en" alt="muhammadsufiyanbaig" />
   
-  ---
+---
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufiyanbaig&" alt="muhammadsufiyanbaig" />
 </div>
