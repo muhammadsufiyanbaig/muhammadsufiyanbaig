@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan Baig</h1>
 <h3 align="center">Full-Stack Developer | Next.js | TypeScript | Tailwind CSS | FastAPI | Neon Postgres</h3>
-  
- ---
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=light&row=1&column=3&no-frame=true">
