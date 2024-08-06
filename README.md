@@ -41,15 +41,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://sqlmodel.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://sqlmodel.tiangolo.com/img/logo.svg" alt="sqlmodel" width="40" height="40"/> </a>
   <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" alt="sanityio" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a>
-  <a href="https://shadcn.dev/" target="_blank" rel="noreferrer"> <img src="https://shadcn.dev/favicon.ico" alt="shadcn" width="40" height="40"/> </a>
 </p>
 
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="muhammadsufiyanbaig" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&locale=en" alt="muhammadsufiyanbaig" />
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="muhammadsufiyanbaig" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&locale=en" alt="muhammadsufiyanbaig" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufiyanbaig&" alt="muhammadsufiyanbaig" />
 </div>
