@@ -70,7 +70,7 @@ I am a Full Stack Developer with expertise in **JavaScript, TypeScript, Python, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsufiyanbaig)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadsufiyanbaig.vercel.app)
 ![Email](https://img.shields.io/badge/Email-send.sufiyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-%2B92--3123352687-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.me/923123352687?text=)
+![Phone](https://img.shields.io/badge/Phone-%2B92--3123352687-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://api.whatsapp.com/send/?phone=923123352687&text&type=phone_number&app_absent=0)
 
 ---
 
