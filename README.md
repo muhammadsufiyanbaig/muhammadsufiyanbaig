@@ -67,7 +67,7 @@ I am a Full Stack Developer with expertise in **JavaScript, TypeScript, Python, 
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsufiyanbaig)
+[![LinkedIn](<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-salman-158213287" height="30" width="40" />](https://linkedin.com/in/muhammadsufiyanbaig)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadsufiyanbaig.vercel.app)
 [![Email](https://img.shields.io/badge/Email-send.sufiyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:send.sufyan@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B92--3123352687-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=923123352687&text&type=phone_number&app_absent=0)
@@ -79,4 +79,6 @@ I am a Full Stack Developer with expertise in **JavaScript, TypeScript, Python, 
 ![Muhammad Sufiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSufiyanBaig&show_icons=true&theme=light)
 
 ---
+### Most Used Languages
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="Muhammad Sufiyan Baig" /></p>
