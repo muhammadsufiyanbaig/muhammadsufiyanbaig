@@ -1,10 +1,8 @@
----
 
 # Hi 👋, I'm Muhammad Sufiyan Baig
 
 **(Full-Stack Developer)**
 
----
 
 ### Licenses & Certifications
 
