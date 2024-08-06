@@ -1,84 +1,26 @@
-# Hi 👋, I'm Muhammad Sufiyan Baig
+<h1 align="center">Hi 👋, I'm Muhammad Sufiyan Baig</h1>
+<h3 align="center">Full-Stack Developer | Next.js | TypeScript | Tailwind CSS | FastAPI | Neon Postgres</h3>
 
-**(Full-Stack Developer)**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsufiyanbaig&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsufiyanbaig" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig" alt="muhammadsufiyanbaig" /></a> </p>
 
-### Licenses & Certifications
+- 🔭 I’m currently working on [Panacloud](https://www.panacloud.com/)
 
-- (Ongoing) 🏅 Certified Cloud Applied Generative AI Engineering (PIAIC)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/muhammadsufiyanbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
+<a href="https://twitter.com/@sufiyan395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sufiyan395" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadsufiyanbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammadsufiyanbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
+<a href="https://medium.com/@muhammadsufiyanbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadsufiyanbaig" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="muhammadsufiyanbaig" /></p>
 
-I am a Full Stack Developer with expertise in **JavaScript, TypeScript, Python, C, and C++**. I have experience working with frameworks and libraries like **Next.js, React.js, Express.js, and FastAPI**. My work involves utilizing platforms such as **Vercel, Sanity.io, and Firebase** to build high-performance applications. I thrive in team environments and enjoy optimizing applications for performance and user experience.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&locale=en" alt="muhammadsufiyanbaig" /></p>
 
----
-
-### Skills & Abilities
-
-- **Programming Languages:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- **Frameworks & Libraries:**  
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![SQLModel](https://img.shields.io/badge/SQLModel-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-
-- **Tools & Platforms:**  
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Sanity.io](https://img.shields.io/badge/Sanity.io-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### Experience
-
-- **Full-Stack Intern at Panacloud Pvt Ltd**  
-  *September 2023 – Present*  
-  Developed and maintained responsive, user-friendly, and visually appealing websites using various frameworks and libraries. Collaborated with cross-functional teams to optimize website performance and user experience.
-
----
-
-### Education
-
-- **BS Data Science**  
-  *February 2024 - Ongoing*  
-  SMIU University
-
----
-
-### Languages
-
-- 🇺🇸 Professional proficiency in English
-- 🇵🇰 Fluent in Urdu (or Hindi)
-
----
-
-### Connect with Me
-
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-salman-158213287" height="30" width="40" />](https://linkedin.com/in/muhammadsufiyanbaig)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadsufiyanbaig.vercel.app)
-[![Email](https://img.shields.io/badge/Email-send.sufiyan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:send.sufyan@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B92--3123352687-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=923123352687&text&type=phone_number&app_absent=0)
-
----
-
-### GitHub Stats
-
-![Muhammad Sufiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSufiyanBaig&show_icons=true&theme=light)
-
----
-### Most Used Languages
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="Muhammad Sufiyan Baig" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufiyanbaig&" alt="muhammadsufiyanbaig" /></p>
