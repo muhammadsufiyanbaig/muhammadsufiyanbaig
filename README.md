@@ -8,10 +8,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=light&row=1&column=3&no-frame=true" alt="muhammadsufiyanbaig"/>
   </a>
 </p>
-  
----
-
-
 <p align="center">🔭 I’m currently working on <a href="https://www.panacloud.com/">Panacloud</a></p>
   
 ---
