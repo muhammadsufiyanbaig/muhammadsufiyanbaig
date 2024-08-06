@@ -46,9 +46,8 @@
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="vercel" width="40" height="40"/> </a>
 </p>
 
-
+<div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="muhammadsufiyanbaig" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&locale=en" alt="muhammadsufiyanbaig" />
-<div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufiyanbaig&" alt="muhammadsufiyanbaig" />
 </div>
