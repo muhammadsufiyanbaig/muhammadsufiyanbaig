@@ -79,3 +79,4 @@ I am a Full Stack Developer with expertise in **JavaScript, TypeScript, Python, 
 ![Muhammad Sufiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSufiyanBaig&show_icons=true&theme=light)
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="Muhammad Sufiyan Baig" /></p>
