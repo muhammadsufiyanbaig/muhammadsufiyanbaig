@@ -1,28 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan Baig</h1>
 <h3 align="center">Full-Stack Developer | Next.js | TypeScript | Tailwind CSS | FastAPI | Neon Postgres</h3>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=light&row=1&column=3&no-frame=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=light&row=1&column=3&no-frame=true" alt="muhammadsufiyanbaig"/>
-  </a>
-</p>
 <p align="center">🔭 I’m currently working on <a href="https://innovativewidget.com/">Innovative Widget</a></p>
   
  ---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://dev.to/muhammadsufiyanbaig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
-  <a href="https://twitter.com/@sufiyan395" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sufiyan395" height="30" width="40" /></a>
+  <a href="https://dev.to/muhammadsufiyanbaig" target="_blank"><img align="center" src="/assets/dev.png" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
+  <a href="https://twitter.com/@sufiyan395" target="_blank"><img align="center" src="/assets/twitter.png" alt="@sufiyan395" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/muhammadsufiyanbaig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
   <a href="https://instagram.com/muhammadsufiyanbaig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsufiyanbaig" height="30" width="40" /></a>
-  <a href="https://medium.com/@muhammadsufiyanbaig" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadsufiyanbaig" height="30" width="40" /></a>
-  <a href="https://muhammadsufiyanbaig.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
+  <a href="https://medium.com/@muhammadsufiyanbaig" target="_blank"><img align="center" src="/assets/medium.svg" alt="@muhammadsufiyanbaig" height="30" width="40" /></a>
+  <a href="https://muhammadsufiyanbaig.vercel.app/" target="_blank"><img align="center" src="/assets/globe.svg" alt="website" height="30" width="40" /></a>
 </p>
   
  ---
   
-<h3 align="center">Languages and Tools:</h3>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -50,11 +45,36 @@
 </p>
 
  ---
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsufiyanbaig&show_icons=true&locale=en&layout=compact" alt="muhammadsufiyanbaig" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&locale=en" alt="muhammadsufiyanbaig" />
-  
----
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsufiyanbaig&" alt="muhammadsufiyanbaig" />
-</div>
+
+<p align="center">
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
+</p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/muhammadsufiyanbaig/muhammadsufiyanbaig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/muhammadsufiyanbaig/muhammadsufiyanbaig/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<img align="right" alt="Coding" width="320" src="https://github.com/muhammadsufiyanbaig/muhammadsufiyanbaig/blob/resources/media/Cat-animation.gif">
+
+[![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+[![Yasir's current streak](https://streak-stats.demolab.com/?user=muhammadsufiyanbaig&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=muhammadsufiyanbaig&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+## ⚡Activity Graph
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsufiyanbaig&theme=react-dark"/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadsufiyanbaig&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muhammadsufiyanbaig&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+
