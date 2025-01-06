@@ -58,8 +58,8 @@
 
 <img align="right" alt="Coding" width="320" src="https://github.com/muhammadsufiyanbaig/muhammadsufiyanbaig/blob/resources/media/Cat-animation.gif">
 
-[![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
-[![Yasir's current streak](https://streak-stats.demolab.com/?user=muhammadsufiyanbaig&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![Sufiyan's github stats](https://bad-apple-github-readme.vercel.app/api?username=muhammadsufiyanbaig&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+[![Sufiyan's current streak](https://streak-stats.demolab.com/?user=muhammadsufiyanbaig&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=muhammadsufiyanbaig&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡Activity Graph
