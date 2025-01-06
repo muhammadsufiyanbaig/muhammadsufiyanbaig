@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sufiyan Baig</h1>
 <h3 align="center">Full-Stack Developer | Next.js | TypeScript | Tailwind CSS | FastAPI | Neon Postgres</h3>
 
-<p align="center">🔭 I’m currently working on <a href="https://innovativewidget.com/">Innovative Widget</a></p>
+<p align="center">🔭 I’m currently working on <a href="https://innovativewidget.com/"><img align="center" src="/assets/innovative-widget-logo.png" alt="@sufiyan395" height="30" width="40" /></a></p>
   
  ---
 
@@ -50,9 +50,9 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp">
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/muhammadsufiyanbaig/muhammadsufiyanbaig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/muhammadsufiyanbaig/muhammadsufiyanbaig/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/muhammadsufiyanbaig/muhammadsufiyanbaig/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
